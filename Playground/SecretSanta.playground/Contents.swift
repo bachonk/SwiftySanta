@@ -1,6 +1,6 @@
 //
 //  SecretSanta.swift
-//  
+//
 //
 //  Created by Tom Bachant on 12/5/15.
 //
